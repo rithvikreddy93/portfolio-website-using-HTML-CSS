@@ -30,7 +30,7 @@ To view the portfolio website locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/portfolio.git
+   git clone https://github.com/rithvikreddy93/portfolio-website-using-HTML-CSS
    ```
 
 2. Navigate to the project directory:
