@@ -48,7 +48,7 @@ To view the portfolio website locally:
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/rithvikreddy93/portfolio-website-using-HTML-CSS/blob/main/LICENSE) file for more information.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/rithvikreddy93/portfolio-website-using-HTML-CSS/commit/e41731361db30da19afd0b0892ce18199ae0500d) file for more information.
 
 ---
 
