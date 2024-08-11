@@ -1,0 +1,65 @@
+/* Basic reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Body styling */
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  /* About card styling */
+  .about-card {
+    background-color: #ea8888;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    width: 400px;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+  }
+  
+  /* Image container styling */
+  .image-container {
+    width: 100px;
+    height: 100px;
+    background-color: #ea8888;
+    padding: 10px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 20px;
+  }
+  
+  .profile-img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+  }
+  
+  /* About text styling */
+  .about-text {
+    max-width: 250px;
+  }
+  
+  .about-title {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .about-description {
+    font-size: 14px;
+    color: #484747;
+    line-height: 1.5;
+  }
+  
